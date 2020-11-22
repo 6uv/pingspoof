@@ -7,6 +7,7 @@ download python and run (in the folder) pip install -r requirements.txt and run 
 # Previews
 <img src="https://i.imgur.com/YiytXnG.png"/>
 <img src="https://i.imgur.com/ckpdLmv.png"/>
+
 # Credit
 Credit to [Fweak](https://gitdab.com/Fweak1337) For Finding the Exploit
 Credit to [Yaekith](https://github.com/Yaekith/DiscordMS) For Giving me the idea
