@@ -5,7 +5,7 @@ Mention spoofer for discord, allows you to mention a role/user without actually 
 download python and run (in the folder) pip install -r requirements.txt and run the python file
 
 # Previews
-<img src="https://i.imgur.com/YiytXnG.png"/>
+<img src="https://uwu.lol/i/txvhoo.png"/>
 <img src="https://i.imgur.com/ckpdLmv.png"/>
 
 # Credit
